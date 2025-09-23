@@ -1,0 +1,59 @@
+/* พื้นหลังของทั้งเว็บ */
+body {
+    background: linear-gradient(135deg, #f2e6d4, #d1b39a);
+    font-family: 'Prompt', sans-serif;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
+  /* สไตล์ของ container ที่ใช้แสดงผลลัพธ์ */
+  .result-container {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 2.5rem;
+    background-color: rgba(255, 255, 255, 0.2); /* อ่อนๆ เพื่อความอบอุ่น */
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    backdrop-filter: blur(10px); /* ใช้ blur เพื่อให้ดูนุ่มนวล */
+  }
+  
+  /* ข้อความผลลัพธ์ประเภท */
+  .result-type {
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #f4b342;  /* สีทองอบอุ่น */
+    text-transform: uppercase;
+  }
+  
+  /* ข้อความคำอธิบายผลลัพธ์ */
+  .result-description {
+    white-space: pre-wrap;
+    text-align: left;
+    margin-top: 1.5rem;
+    line-height: 1.7;
+    font-size: 1.1rem;
+    color: #491b1b;
+  }
+  
+  /* ปุ่มลองเล่นใหม่ */
+  button {
+    margin-top: 2.5rem;
+    padding: 0.8rem 2.5rem;
+    background-color: #c89f7d;  /* สีน้ำตาลอ่อน */
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #b08561; /* สีที่เข้มขึ้นเล็กน้อยเมื่อ hover */
+    transform: translateY(-3px);
+  }
+  
