@@ -1,0 +1,45 @@
+.movie-card {
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.movie-card img {
+  /* width: 100%; */
+  height: auto;
+  border-radius: 4px;
+}
+
+.movie-card h3 {
+  margin: 10px 0 5px;
+}
+
+.movie-card p {
+  color: #555;
+  font-size: 14px;
+}
+
+/* .movie-card {
+  flex: 1 1 calc(25% - 40px); Allows cards to grow/shrink, aiming for 4 per row
+  min-width: 250px; /* Minimum width before wrapping 
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  box-sizing: border-box; /* Include padding and border in the element's total width 
+}
+
+/* Media query for smaller screens, e.g., 2 cards per row 
+@media (max-width: 768px) {
+  .movie-card {
+    flex: 1 1 calc(50% - 40px);
+  }
+}
+
+/* Media query for even smaller screens, e.g., 1 card per row 
+@media (max-width: 480px) {
+  .movie-card {
+    flex: 1 1 100%;
+  }
+} */
