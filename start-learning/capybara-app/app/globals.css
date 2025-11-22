@@ -108,18 +108,7 @@ body {
   }
 
   body {
-    /* background-color: hsl(var(--background)); */
-    /* color: hsl(var(--foreground)); */
     color: #A17859;
     background-color: #fff9ef;
   }
 }
-
-/* @layer base { 
-  * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
-  }
-}  */
