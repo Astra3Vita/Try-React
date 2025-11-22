@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "capy-reading-2",
+      "description": "A cute cartoon capybara wearing glasses and reading a book.",
+      "imageUrl": "https://images.unsplash.com/photo-1647449806052-bd1042dd05f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjdXRlJTIwY2FweWJhcmF8ZW58MHx8fHwxNzYzNjkwMjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cute capybara"
+    },
+    {
+      "id": "capy-gardening",
+      "description": "A cute cartoon capybara wearing a straw hat and gardening.",
+      "imageUrl": "https://images.unsplash.com/photo-1684119406433-f45be5d1ae12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYXB5YmFyYSUyMGdhcmRlbmluZ3xlbnwwfHx8fDE3NjM2OTAyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "capybara gardening"
+    },
+    {
+      "id": "capy-painting",
+      "description": "A cute cartoon capybara with a beret, painting on an easel.",
+      "imageUrl": "https://images.unsplash.com/photo-1716337757705-c5f314ef84ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYXB5YmFyYSUyMGFydGlzdHxlbnwwfHx8fDE3NjM2OTAyNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "capybara artist"
+    },
+    {
+      "id": "capy-sleeping",
+      "description": "A cute cartoon capybara sleeping with a nightcap on.",
+      "imageUrl": "https://images.unsplash.com/photo-1680994354810-aa25bbc69976?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FweWJhcmElMjBzbGVlcGluZ3xlbnwwfHx8fDE3NjM2OTAyNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "capybara sleeping"
+    }
+  ]
+}
